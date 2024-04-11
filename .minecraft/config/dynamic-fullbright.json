@@ -1,0 +1,12 @@
+{
+	"separate entity lighting": false,
+	"scaling": true,
+	"min block": 10,
+	"max block": 15,
+	"min entity": 4,
+	"max entity": 15,
+	"min sky": 5,
+	"max sky": 15,
+	"retain on-state": false,
+	"on-state": true
+}
