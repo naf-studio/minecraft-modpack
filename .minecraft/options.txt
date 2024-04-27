@@ -106,8 +106,6 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
-key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.fabrishot.screenshot:key.keyboard.f9
 key_key.signtools.copysign:key.keyboard.unknown
 key_key.signtools.autopaste:key.keyboard.unknown
@@ -127,6 +125,8 @@ key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.k
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
 key_key.firstperson.toggle:key.keyboard.f6
+key_fpsreducer.key.openGui:key.keyboard.unknown
+key_fpsreducer.key.forceIdle:key.keyboard.unknown
 key_key.inventory_tabs.key.next_tab:key.keyboard.tab
 key_key.inventory_tabs.key.toggle_tabs:key.keyboard.unknown
 key_keybind.invmove.toggleMove:key.keyboard.unknown
