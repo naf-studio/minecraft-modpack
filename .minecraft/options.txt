@@ -106,6 +106,8 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
+key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.fabrishot.screenshot:key.keyboard.f9
 key_key.signtools.copysign:key.keyboard.unknown
 key_key.signtools.autopaste:key.keyboard.unknown
@@ -119,8 +121,7 @@ key_key.amecs.toggle_left_pants_leg:key.keyboard.unknown
 key_key.amecs.toggle_right_pants_leg:key.keyboard.unknown
 key_key.amecs.toggle_hat:key.keyboard.unknown
 key_key.antighost.reveal:key.keyboard.g
-key_create.keyinfo.toolmenu:key.keyboard.unknown
-key_create.keyinfo.toolbelt:key.keyboard.unknown
+key_key.bcbui.areaselectioninput:key.keyboard.unknown
 key_key.dynamicfullbright.toggle:key.keyboard.h
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.k
@@ -152,7 +153,7 @@ soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
-soundCategory_ambient:0.8
+soundCategory_ambient:1.0
 soundCategory_voice:1.0
 modelPart_cape:true
 modelPart_jacket:true
