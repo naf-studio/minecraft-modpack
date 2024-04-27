@@ -1,7 +1,7 @@
 {
   "general": {
     "engines": 0,
-    "volume": 0.8035087585449219,
+    "volume": 0.8,
     "useSoundMasterSource": false,
     "scanStepAmount": 100,
     "playSoundWithOffset": true
@@ -36,7 +36,7 @@
       "overall": 1
     },
     "wind": {
-      "overall": 0.8035087585449219,
+      "overall": 0.8,
       "wind": 1
     },
     "underwater": {
