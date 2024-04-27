@@ -3,9 +3,9 @@
 	"scaling": true,
 	"min block": 10,
 	"max block": 15,
-	"min entity": 4,
+	"min entity": 7,
 	"max entity": 15,
-	"min sky": 5,
+	"min sky": 7,
 	"max sky": 15,
 	"retain on-state": false,
 	"on-state": true
