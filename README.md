@@ -1,15 +1,12 @@
 ## Danh sách các mod sẽ được cập nhật sau
 
 ## Các phím chức năng
-- **G**: Tùy chỉnh nhạc trong game (bài, playlist, bật/tắt, âm lượng)
 - **H**: Bật/tắt full gamma (full sáng)
 - **J**: Menu shader
 - **K**: Bật/tắt bầu trời
 - **Z**: Zoom
 - **V**: Setting của voice chat
 - **M**: Tắt mic voice chat
-
-Version: 6.4
 
 ## Mod list
 - Fabric API: https://modrinth.com/mod/fabric-api
@@ -127,9 +124,3 @@ Version: 6.4
 - Fancy Crops: https://modrinth.com/resourcepack/fancy-crops
 - Sparkles: https://modrinth.com/resourcepack/sparkles
 - Stellarity Optional Resource Pack: https://modrinth.com/resourcepack/stellarity-optional-resource-pack
-
-## Animated
-- Animated Items: https://modrinth.com/resourcepack/animated-items
-- Fresh Moves: https://modrinth.com/resourcepack/tras-fresh-player
-- Fresh Animations: https://modrinth.com/resourcepack/fresh-animations
-
