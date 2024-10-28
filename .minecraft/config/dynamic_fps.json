@@ -1,0 +1,10 @@
+{
+  "states": {
+    "unfocused": {
+      "frame_rate_target": 10
+    },
+    "invisible": {
+      "frame_rate_target": 10
+    }
+  }
+}

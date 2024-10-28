@@ -10,3 +10,126 @@
 - **M**: Tắt mic voice chat
 
 Version: 6.4
+
+## Mod list
+- Fabric API: https://modrinth.com/mod/fabric-api
+- Sodium: https://modrinth.com/mod/sodium
+- Sodium Extra: https://modrinth.com/mod/sodium-extra
+- Iris Shaders: https://modrinth.com/mod/iris
+- Entity Culling: https://modrinth.com/mod/entityculling
+- Lithium: https://modrinth.com/mod/lithium
+- FerriteCore: https://modrinth.com/mod/ferrite-core
+- ImmediatelyFast: https://modrinth.com/mod/immediatelyfast
+- ModernFix: https://modrinth.com/mod/modernfix
+- Dynamic FPS: https://modrinth.com/mod/dynamic-fps
+- More Culling: https://modrinth.com/mod/moreculling
+- Krypton: https://modrinth.com/mod/krypton
+- Enhanced Block Entities: https://modrinth.com/mod/ebe
+- Debugify: https://modrinth.com/mod/debugify
+- Language Reload: https://modrinth.com/mod/language-reload
+- Model Gap Fix: https://modrinth.com/mod/modelfix
+- Concurrent Chunk Management Engine (Fabric): https://modrinth.com/mod/c2me-fabric
+- Distant Horizons: https://modrinth.com/mod/distanthorizons
+- Nvidium: https://modrinth.com/mod/nvidium
+- Very Many Players (Fabric): https://modrinth.com/mod/vmp-fabric
+- Noisium: https://modrinth.com/mod/noisium
+- Let Me Despawn: https://modrinth.com/plugin/lmd
+- BadOptimizations: https://modrinth.com/mod/badoptimizations
+- ThreadTweak: https://modrinth.com/mod/threadtweak
+- ToolTipFix: https://modrinth.com/mod/tooltipfix
+- Fast IP Ping: https://modrinth.com/mod/fast-ip-ping
+- Alternate Current: https://modrinth.com/mod/alternate-current
+- Entity View Distance: https://modrinth.com/mod/entity-view-distance
+- RailOptimization: https://modrinth.com/mod/railoptimization
+- Better Advancements: https://modrinth.com/mod/better-advancements
+- Methane: https://modrinth.com/mod/methane
+- Cloth Config API: https://modrinth.com/mod/cloth-config
+- Mod Menu: https://modrinth.com/mod/modmenu
+- Indium: https://modrinth.com/mod/indium
+- YetAnotherConfigLib: https://modrinth.com/mod/yacl
+- [ETF] Entity Texture Features: https://modrinth.com/mod/entitytexturefeatures
+- [EMF] Entity Model Features: https://modrinth.com/mod/entity-model-features
+- CIT Resewn: https://modrinth.com/mod/cit-resewn
+- Animatica: https://modrinth.com/mod/animatica
+- AppleSkin: https://modrinth.com/mod/appleskin
+- Not Enough Animations: https://modrinth.com/mod/not-enough-animations
+- Continuity: https://modrinth.com/mod/continuity
+- Simple Voice Chat: https://modrinth.com/plugin/simple-voice-chat
+- Sound Physics Remastered: https://modrinth.com/mod/sound-physics-remastered
+- 3D Skin Layers: https://modrinth.com/mod/3dskinlayers
+- No Chat Reports: https://modrinth.com/mod/no-chat-reports
+- LambDynamicLights: https://modrinth.com/mod/lambdynamiclights
+- Zoomify: https://modrinth.com/mod/zoomify
+- Presence Footsteps: https://modrinth.com/mod/presence-footsteps
+- Enchantment Descriptions: https://modrinth.com/mod/enchantment-descriptions
+- Bookshelf: https://modrinth.com/mod/bookshelf-lib
+- Chat Heads: https://modrinth.com/mod/chat-heads
+- BetterF3: https://modrinth.com/mod/betterf3
+- Falling Leaves: https://modrinth.com/mod/fallingleaves
+- Mouse Tweaks: https://modrinth.com/mod/mouse-tweaks
+- FabricSkyboxes: https://modrinth.com/mod/fabricskyboxes
+- FabricSkyBoxes Interop: https://modrinth.com/mod/fabricskyboxes-interop
+- Visuality: https://modrinth.com/mod/visuality
+- Clumps: https://modrinth.com/mod/clumps
+- AmbientSounds: https://modrinth.com/mod/ambientsounds
+- CreativeCore: https://modrinth.com/mod/creativecore
+- Capes: https://modrinth.com/mod/capes
+- Inventory Profiles Next: https://modrinth.com/mod/inventory-profiles-next
+- Fabric Language Kotlin: https://modrinth.com/mod/fabric-language-kotlin
+- libIPN: https://modrinth.com/mod/libipn
+- More Chat History: https://modrinth.com/mod/morechathistory
+- Fabrishot: https://modrinth.com/mod/fabrishot
+- Better Mount HUD: https://modrinth.com/mod/better-mount-hud
+- Eating Animation: https://modrinth.com/mod/eating-animation
+- Bobby: https://modrinth.com/mod/bobby
+- Item Highlighter: https://modrinth.com/mod/item-highlighter
+- e4mc: https://modrinth.com/mod/e4mc
+- Cherished Worlds: https://modrinth.com/mod/cherished-worlds
+- Cave Dust: https://modrinth.com/mod/cave-dust
+- Make Bubbles Pop: https://modrinth.com/mod/make_bubbles_pop
+- Blur+: https://modrinth.com/mod/blur-plus
+- InvMove: https://modrinth.com/mod/invmove
+- First-person Model: https://modrinth.com/mod/first-person-model
+- Cubes Without Borders: https://modrinth.com/mod/cubes-without-borders
+- Polytone: https://modrinth.com/mod/polytone
+- AttributeFix: https://modrinth.com/mod/attributefix
+- Command Block IDE: https://modrinth.com/mod/command-block-ide
+- Better Third Person: https://modrinth.com/mod/better-third-person
+- Detail Armor Bar: https://modrinth.com/mod/detail-armor-bar
+- Disable Custom Worlds Advice: https://modrinth.com/mod/dcwa
+- Enhanced Attack Indicator: https://modrinth.com/mod/enhanced-attack-indicator
+- Fishing Ruler: https://modrinth.com/mod/fishing-ruler
+- Held Item Info: https://modrinth.com/mod/held-item-info
+- In-Game Account Switcher: https://modrinth.com/mod/in-game-account-switcher
+- Inventory Tabs: https://modrinth.com/mod/inventory-tabs
+- ItemPhysic Lite: https://modrinth.com/mod/itemphysic-lite
+- MixinTrace: https://modrinth.com/mod/mixintrace
+- Monsters in the Closet: https://modrinth.com/mod/monsters-in-the-closet
+- Sounds: https://modrinth.com/mod/sound
+- M.R.U: https://modrinth.com/mod/mru
+- Screenshot to Clipboard: https://modrinth.com/mod/screenshot-to-clipboard
+- Shulker Box Tooltip: https://modrinth.com/mod/shulkerboxtooltip
+- Status Effect Bars: https://modrinth.com/mod/status-effect-bars
+- SwingThrough: https://modrinth.com/mod/swingthrough
+- TNT Timer: https://modrinth.com/datapack/tnt-timer
+- Traveler's Titles: https://modrinth.com/mod/travelers-titles
+- YUNG's API: https://modrinth.com/mod/yungs-api
+- Iceberg: https://modrinth.com/mod/iceberg
+- Almanac: https://modrinth.com/mod/almanac-lib
+- Tiny Item Animations: https://modrinth.com/mod/tiny-item-animations
+- Dynamic Fullbright: https://modrinth.com/mod/dynamic-fullbright
+
+## Resource pack
+- New default+: https://powerups4u.wixsite.com/seaofpixels/downloads
+- Fast Better Grass: https://modrinth.com/resourcepack/fast-better-grass
+- Low Shield: https://modrinth.com/resourcepack/low-shield-pack
+- Low Fire: https://modrinth.com/resourcepack/low-fire-pack
+- Fancy Crops: https://modrinth.com/resourcepack/fancy-crops
+- Sparkles: https://modrinth.com/resourcepack/sparkles
+- Stellarity Optional Resource Pack: https://modrinth.com/resourcepack/stellarity-optional-resource-pack
+
+## Animated
+- Animated Items: https://modrinth.com/resourcepack/animated-items
+- Fresh Moves: https://modrinth.com/resourcepack/tras-fresh-player
+- Fresh Animations: https://modrinth.com/resourcepack/fresh-animations
+

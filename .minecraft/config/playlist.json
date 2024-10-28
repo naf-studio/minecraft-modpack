@@ -1,9 +1,0 @@
-{
-  "accent_hex": "00c839",
-  "darken_background": false,
-  "volume_bar_theme": "playlist:theme.accent",
-  "skip_interlude": true,
-  "show_quick_player": true,
-  "icon_theme": "light",
-  "show_alt_names": true
-}
