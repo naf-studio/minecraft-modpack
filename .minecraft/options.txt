@@ -50,7 +50,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/NewDefault+v1.77[MC1.20-1.21.1].zip","file/Fancy Crops v1.0 f5-34.zip","presencefootsteps:default_sound_pack","continuity:default","continuity:glass_pane_culling_fix","black_icons","minecraft:supporteatinganimation","file/Fast Better Grass.zip","file/Low Fire.zip","file/Low Shield.zip","file/Sparkles_1.21_v1.0.7.zip"]
+resourcePacks:["vanilla","fabric","file/NewDefault+v1.77[MC1.20-1.21.1]-RemovedRandomAndCem.zip","file/FreshAnimations_v1.9.2.zip","file/Fancy Crops v1.0 f5-34.zip","presencefootsteps:default_sound_pack","continuity:default","continuity:glass_pane_culling_fix","file/Fast Better Grass.zip","minecraft:supporteatinganimation","black_icons","file/LowOnFire_1.21.zip","file/Sparkles_1.21_v1.0.7.zip"]
 incompatibleResourcePacks:["appleskin","betteradvancements","bookshelf","cherishedworlds","modernfix","mru","yet_another_config_lib_v3"]
 lastServer:
 lang:en_us
