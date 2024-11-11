@@ -1,14 +1,17 @@
-## Recommended to use Java 21
+# Recommended to use Java 21
 
-## Function keys
+# Function keys
+- **G**: Voice chat - Group management
 - **H**: Toggle full gamma (full brightness)
-- **J**: Shader menu
+- **J**: Shader selection menu
 - **K**: Toggle sky
 - **Z**: Zoom
-- **V**: Voice chat settings
-- **M**: Mute voice chat microphone
+- **V**: Voice chat - Settings
+- **M**: Voice chat - Mute microphone
+- **F6**: Toggle Firstperson
+- **F9**: Take large screenshot
 
-## Mod List
+# Mod List
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
@@ -26,7 +29,7 @@
 - [Language Reload](https://modrinth.com/mod/language-reload)
 - [Model Gap Fix](https://modrinth.com/mod/modelfix)
 - [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric)
-- [Distant Horizons](https://modrinth.com/mod/distanthorizons)
+- ~~[Distant Horizons](https://modrinth.com/mod/distanthorizons)~~
 - [Nvidium](https://modrinth.com/mod/nvidium)
 - [Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric)
 - [Noisium](https://modrinth.com/mod/noisium)
@@ -39,7 +42,6 @@
 - [Entity View Distance](https://modrinth.com/mod/entity-view-distance)
 - [RailOptimization](https://modrinth.com/mod/railoptimization)
 - [Better Advancements](https://modrinth.com/mod/better-advancements)
-- [Methane](https://modrinth.com/mod/methane)
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [Indium](https://modrinth.com/mod/indium)
@@ -78,18 +80,18 @@
 - [Fabrishot](https://modrinth.com/mod/fabrishot)
 - [Better Mount HUD](https://modrinth.com/mod/better-mount-hud)
 - [Eating Animation](https://modrinth.com/mod/eating-animation)
-- [Bobby](https://modrinth.com/mod/bobby)
+- ~~[Bobby](https://modrinth.com/mod/bobby)~~
 - [Item Highlighter](https://modrinth.com/mod/item-highlighter)
 - [e4mc](https://modrinth.com/mod/e4mc)
 - [Cherished Worlds](https://modrinth.com/mod/cherished-worlds)
 - [Cave Dust](https://modrinth.com/mod/cave-dust)
-- [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)
-- [Blur+](https://modrinth.com/mod/blur-plus)
+- ~~[Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)~~
+- ~~[Blur+](https://modrinth.com/mod/blur-plus)~~
 - [InvMove](https://modrinth.com/mod/invmove)
 - [First-person Model](https://modrinth.com/mod/first-person-model)
 - [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders)
 - [Polytone](https://modrinth.com/mod/polytone)
-- [AttributeFix](https://modrinth.com/mod/attributefix)
+- ~~[AttributeFix](https://modrinth.com/mod/attributefix)~~
 - [Command Block IDE](https://modrinth.com/mod/command-block-ide)
 - [Better Third Person](https://modrinth.com/mod/better-third-person)
 - [Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar)
@@ -116,11 +118,13 @@
 - [Tiny Item Animations](https://modrinth.com/mod/tiny-item-animations)
 - [Dynamic Fullbright](https://modrinth.com/mod/dynamic-fullbright)
 
-## Resource pack list
-- [New default+](https://powerups4u.wixsite.com/seaofpixels/downloads)
+# Resource pack list
+- [New Default+](https://powerups4u.wixsite.com/seaofpixels/downloads) _Note: I have modified this resource pack to be compatible with Fresh Animations by removing the **random** and **cem** folders from **assets/minecraft/optifine**. This also removes New Default+'s mob variants (random mobs, biome-dependent mobs, and name tag rename mobs)._
+- [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
 - [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass)
-- [Low Shield](https://modrinth.com/resourcepack/low-shield-pack)
-- [Low Fire](https://modrinth.com/resourcepack/low-fire-pack)
+- [Low On Fire](https://modrinth.com/resourcepack/low-on-fire)
 - [Fancy Crops](https://modrinth.com/resourcepack/fancy-crops)
+### Addon
 - [Sparkles](https://modrinth.com/resourcepack/sparkles)
-- [Stellarity Optional Resource Pack](https://modrinth.com/resourcepack/stellarity-optional-resource-pack)
+- ~~[Stellarity Optional Resource Pack](https://modrinth.com/resourcepack/stellarity-optional-resource-pack)~~
+- ~~[Stellarity Music Addon](https://modrinth.com/resourcepack/stellarity-music-addon)~~
