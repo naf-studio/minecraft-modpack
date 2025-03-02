@@ -17,9 +17,9 @@
 - **]**: Xaero's world map - World map setting
 <!-- - **F6**: Toggle Firstperson -->
 
-# Mod List
+# Mod list
 - [AmbientSounds](https://modrinth.com/mod/ambientsounds)
-- [Animatica](https://modrinth.com/mod/animatica) - OLD
+- [Animatica](https://modrinth.com/mod/animatica)
 - [AppleSkin](https://modrinth.com/mod/appleskin)
 - [BadOptimizations](https://modrinth.com/mod/badoptimizations)
 - [Better Advancements](https://modrinth.com/mod/better-advancements)
