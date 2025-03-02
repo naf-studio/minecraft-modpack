@@ -1,15 +1,21 @@
 # Recommended to use Java 21
 
 # Function keys
-- **G**: Voice chat - Group management
+- **C**: Zoom
+- **F9**: Take large screenshot
 - **H**: Toggle full gamma (full brightness)
 - **J**: Shader selection menu
 - **K**: Toggle sky
-- **Z**: Zoom
-- **V**: Voice chat - Settings
-- **M**: Voice chat - Mute microphone
+- **G**: Simple voice chat - Group management
+- **V**: Simple voice chat - Settings
+- **N**: Simple voice chat - Mute microphone
+- **Z**: Xaero's minimap - Enlarge minimap
+- **B**: Xaero's minimap - New waypoint
+- **U**: Xaero's minimap - Waypoint menu
+- **[**: Xaero's minimap - Minimap setting
+- **m**: Xaero's world map - Open world map
+- **]**: Xaero's world map - World map setting
 <!-- - **F6**: Toggle Firstperson -->
-- **F9**: Take large screenshot
 
 # Mod List
 - [AmbientSounds](https://modrinth.com/mod/ambientsounds)
@@ -21,7 +27,6 @@
 - [Better Mount HUD](https://modrinth.com/mod/better-mount-hud)
 - [Better Third Person](https://modrinth.com/mod/better-third-person)
 - [Bookshelf](https://modrinth.com/mod/bookshelf-lib)
-- ~~[Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric)~~
 - [Capes](https://modrinth.com/mod/capes)
 - [Chat Heads](https://modrinth.com/mod/chat-heads)
 - [CIT Resewn](https://modrinth.com/mod/cit-resewn)
@@ -52,7 +57,6 @@
 - [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher)
 - [Iceberg](https://modrinth.com/mod/iceberg)
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
-- ~~[Indium](https://modrinth.com/mod/indium)~~
 - [Inventory Tabs](https://modrinth.com/mod/inventory-tabs)
 - [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)
 - [InvMove](https://modrinth.com/mod/invmove)
@@ -75,7 +79,6 @@
 - [Nvidium](https://modrinth.com/mod/nvidium) - error
 - [Polytone](https://modrinth.com/mod/polytone)
 - [Prickle](https://modrinth.com/mod/prickle)
-- ~~[Puzzle](https://modrinth.com/mod/puzzle)~~
 - [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
 - [ReplayMod](https://modrinth.com/mod/replaymod)
 - [Replay Voice Chat](https://modrinth.com/mod/replay-voice-chat)
@@ -91,6 +94,8 @@
 - [ToolTipFix](https://modrinth.com/mod/tooltipfix)
 - [Traveler's Titles](https://modrinth.com/mod/travelers-titles)
 - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
+- [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
+- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
 - [YUNG's API](https://modrinth.com/mod/yungs-api)
 - [Zoomify](https://modrinth.com/mod/zoomify)
@@ -104,6 +109,7 @@
 - ~~[Cherished Worlds](https://modrinth.com/mod/cherished-worlds)~~
 - ~~[Controlify](https://modrinth.com/mod/controlify)~~
 - ~~[Clumps](https://modrinth.com/mod/clumps)~~
+- ~~[Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric)~~
 - ~~[Command Block IDE](https://modrinth.com/mod/command-block-ide)~~
 - ~~[Distant Horizons](https://modrinth.com/mod/distanthorizons)~~
 - ~~[e4mc](https://modrinth.com/mod/e4mc)~~
@@ -112,11 +118,13 @@
 - ~~[Falling Leaves](https://modrinth.com/mod/fallingleaves)~~
 - ~~[First-person Model](https://modrinth.com/mod/first-person-model)~~
 - ~~[Fishing Ruler](https://modrinth.com/mod/fishing-ruler)~~
+- ~~[Indium](https://modrinth.com/mod/indium)~~
 - ~~[Let Me Despawn](https://modrinth.com/plugin/lmd)~~
 - ~~[Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)~~
 - ~~[Monsters in the Closet](https://modrinth.com/mod/monsters-in-the-closet)~~
 - ~~[Noisium](https://modrinth.com/mod/noisium)~~
 - ~~[Not Enough Animations](https://modrinth.com/mod/not-enough-animations)~~
+- ~~[Puzzle](https://modrinth.com/mod/puzzle)~~
 - ~~[RailOptimization](https://modrinth.com/mod/railoptimization)~~
 - ~~[Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)~~
 - ~~[TNT Timer](https://modrinth.com/datapack/tnt-timer)~~
@@ -124,12 +132,11 @@
 - ~~[Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric)~~
 
 # Resource pack list
-- [New Default+](https://powerups4u.wixsite.com/seaofpixels/downloads) _Note: I have modified this resource pack to be compatible with Fresh Animations by removing the **random** and **cem** folders from **assets/minecraft/optifine**. This also removes New Default+'s mob variants (random mobs, biome-dependent mobs, and name tag rename mobs)._
-- [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
+<!-- - [New Default+](https://powerups4u.wixsite.com/seaofpixels/downloads) _Note: I have modified this resource pack to be compatible with Fresh Animations by removing the **random** and **cem** folders from **assets/minecraft/optifine**. This also removes New Default+'s mob variants (random mobs, biome-dependent mobs, and name tag rename mobs)._ -->
+<!-- - [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) -->
+- [New Default+](https://powerups4u.wixsite.com/seaofpixels/downloads)
 - [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass)
-- [Low On Fire](https://modrinth.com/resourcepack/low-on-fire)
 - [Fancy Crops](https://modrinth.com/resourcepack/fancy-crops)
-### Addon
 - [Sparkles](https://modrinth.com/resourcepack/sparkles)
-- ~~[Stellarity Optional Resource Pack](https://modrinth.com/resourcepack/stellarity-optional-resource-pack)~~
-- ~~[Stellarity Music Addon](https://modrinth.com/resourcepack/stellarity-music-addon)~~
+- [Stellarity Optional Resource Pack](https://modrinth.com/resourcepack/stellarity-optional-resource-pack)
+- [Stellarity Music Addon](https://modrinth.com/resourcepack/stellarity-music-addon)
