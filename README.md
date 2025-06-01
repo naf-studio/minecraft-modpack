@@ -132,11 +132,17 @@
 - ~~[Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric)~~
 
 # Resource pack list
-<!-- - [New Default+](https://powerups4u.wixsite.com/seaofpixels/downloads) _Note: I have modified this resource pack to be compatible with Fresh Animations by removing the **random** and **cem** folders from **assets/minecraft/optifine**. This also removes New Default+'s mob variants (random mobs, biome-dependent mobs, and name tag rename mobs)._ -->
-<!-- - [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) -->
-- [New Default+](https://powerups4u.wixsite.com/seaofpixels/downloads)
+- [Bare Bones](https://modrinth.com/resourcepack/bare-bones)
+- [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
+- [Bare Bones x Fresh Animations](https://modrinth.com/resourcepack/bare-bones-x-fresh-animations)
+- [Bare Bones x Eating Animation](https://modrinth.com/resourcepack/bare-bones-x-eating-animation)
+- [Bare Bones Patches](https://modrinth.com/resourcepack/bare-bones-patches)
+- [Fresh Moves](https://modrinth.com/resourcepack/tras-fresh-player)
+- [Animated Items](https://modrinth.com/resourcepack/animated-items)
+- [Bare Bones Grass Flowers](https://modrinth.com/resourcepack/bare-bones-grass-flowers)
+- [Bare Bones - Flux Enhanced Addon](https://modrinth.com/resourcepack/bare-bones-flux-enhanced-addon)
 - [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass)
-- [Fancy Crops](https://modrinth.com/resourcepack/fancy-crops)
+- [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode)
 - [Sparkles](https://modrinth.com/resourcepack/sparkles)
 - [Stellarity Optional Resource Pack](https://modrinth.com/resourcepack/stellarity-optional-resource-pack)
 - [Stellarity Music Addon](https://modrinth.com/resourcepack/stellarity-music-addon)

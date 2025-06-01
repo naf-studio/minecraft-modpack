@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/NewDefault+v1.79[MC1.20-1.21.4].zip","file/Fancy Crops v1.0 f5-34.zip","continuity:default","continuity:glass_pane_culling_fix","file/Fast Better Grass.zip","file/Sparkles_1.21.x_v1.1.2.zip","file/Stellarity-RP-3-0-3.zip","file/Stellarity-Music-3-0-3.zip","black_icons"]
-incompatibleResourcePacks:["appleskin","badoptimizations","betteradvancements","bookshelf","enchdesc","modernfix","mru","replaymod","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","file/Stellarity-Music-3-0-3.zip"]
+resourcePacks:["vanilla","fabric","file/Bare Bones 1.21.5.zip","file/FreshAnimations_v1.9.2.zip","file/Bare Bones x Fresh Animations 1.9.2.zip","minecraft:supporteatinganimation","file/Bare Bones x Eating Animation 1.2.1 - 1.21.zip","black_icons","file/Bare_Bones_Patches_V3.1.zip","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip","file/animated-items-1_21-1 - 1_4_2.zip","file/Bare Bones Grass Flowers v1.0.0.zip","file/Bare Bones - Flux Enhanced 1.21.zip","continuity:default","continuity:glass_pane_culling_fix","file/Fast Better Grass.zip","file/Default-Dark-Mode-1.20.2+-2025.5.0.zip"]
+incompatibleResourcePacks:["appleskin","badoptimizations","betteradvancements","bookshelf","enchdesc","modernfix","mru","replaymod","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","file/Bare Bones x Fresh Animations 1.9.2.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
