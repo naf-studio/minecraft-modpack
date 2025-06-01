@@ -8,12 +8,12 @@
 - **K**: Toggle sky
 - **G**: Simple voice chat - Group management
 - **V**: Simple voice chat - Settings
-- **N**: Simple voice chat - Mute microphone
+- **M**: Simple voice chat - Mute microphone
 - **Z**: Xaero's minimap - Enlarge minimap
 - **B**: Xaero's minimap - New waypoint
 - **U**: Xaero's minimap - Waypoint menu
 - **[**: Xaero's minimap - Minimap setting
-- **m**: Xaero's world map - Open world map
+- **N**: Xaero's world map - Open world map
 - **]**: Xaero's world map - World map setting
 <!-- - **F6**: Toggle Firstperson -->
 
