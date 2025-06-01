@@ -76,7 +76,7 @@
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
 - [M.R.U](https://modrinth.com/mod/mru)
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
-- [Nvidium](https://modrinth.com/mod/nvidium) - error
+- ~~[Nvidium](https://modrinth.com/mod/nvidium)~~
 - [Polytone](https://modrinth.com/mod/polytone)
 - [Prickle](https://modrinth.com/mod/prickle)
 - [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
