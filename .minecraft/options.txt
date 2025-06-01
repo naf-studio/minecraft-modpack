@@ -7,7 +7,7 @@ entityShadows:true
 forceUnicodeFont:false
 japaneseGlyphVariants:false
 fov:0.75
-fovEffectScale:0.8
+fovEffectScale:0.8660254037844386
 darknessEffectScale:0.8
 glintSpeed:0.5
 glintStrength:0.75
@@ -21,7 +21,7 @@ mipmapLevels:2
 narrator:0
 particles:1
 reducedDebugInfo:false
-renderClouds:"false"
+renderClouds:"true"
 renderDistance:8
 simulationDistance:7
 screenEffectScale:0.75
