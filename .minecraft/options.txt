@@ -129,6 +129,7 @@ key_key.dynamicfullbright.toggle:key.keyboard.h
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.k
 key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
+key_key.firstperson.toggle:key.keyboard.f6
 key_key.inventory_tabs.key.next_tab:key.keyboard.tab
 key_key.inventory_tabs.key.toggle_tabs:key.keyboard.unknown
 key_keybind.invmove.toggleMove:key.keyboard.unknown

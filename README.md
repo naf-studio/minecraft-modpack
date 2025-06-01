@@ -113,10 +113,10 @@
 - ~~[Command Block IDE](https://modrinth.com/mod/command-block-ide)~~
 - ~~[Distant Horizons](https://modrinth.com/mod/distanthorizons)~~
 - ~~[e4mc](https://modrinth.com/mod/e4mc)~~
-- ~~[Eating Animation](https://modrinth.com/mod/eating-animation)~~
+- [Eating Animation](https://modrinth.com/mod/eating-animation)
 - ~~[Entity View Distance](https://modrinth.com/mod/entity-view-distance)~~
 - ~~[Falling Leaves](https://modrinth.com/mod/fallingleaves)~~
-- ~~[First-person Model](https://modrinth.com/mod/first-person-model)~~
+- [First-person Model](https://modrinth.com/mod/first-person-model)
 - ~~[Fishing Ruler](https://modrinth.com/mod/fishing-ruler)~~
 - ~~[Indium](https://modrinth.com/mod/indium)~~
 - ~~[Let Me Despawn](https://modrinth.com/plugin/lmd)~~
