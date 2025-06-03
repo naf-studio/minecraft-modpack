@@ -15,7 +15,7 @@
 - **[**: Xaero's minimap - Minimap setting
 - **N**: Xaero's world map - Open world map
 - **]**: Xaero's world map - World map setting
-<!-- - **F6**: Toggle Firstperson -->
+- **F6**: Toggle Firstperson
 
 # Mod list
 - ~~[3D Skin Layers](https://modrinth.com/mod/3dskinlayers)~~
