@@ -1,21 +1,30 @@
-### Recommended to use Java 21
+## About this modpack:
+- This modpack is designed to enhance your Minecraft experience with a collection of performance optimizations, visual improvements, and quality-of-life features. It aims to provide a smooth and immersive gameplay while maintaining a vanilla-like gameplay experience
 
-### Function keys
+## Notice:
+- It's highly recommended to use [Java 21](https://www.oracle.com/java/technologies/downloads/)
+- This modpack is currently **NOT COMPATIBLE** with [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher)
+- You can install this modpack using either the `.mrpack` or `.zip` file
+- This modpack comes pre-installed with [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat), [ReplayMod](https://modrinth.com/mod/replaymod), [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap), [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map), ...
+
+## Keybinds:
 - **C**: Zoom
-- **F6**: Toggle Firstperson
-- **F9**: Take large screenshot
-- **H**: Toggle full gamma (full brightness)
-- **J**: Shader selection menu
-- **K**: Toggle sky
-- **G**: Simple voice chat - Group management
-- **V**: Simple voice chat - Settings
-- **M**: Simple voice chat - Mute microphone
-- **Z**: Xaero's minimap - Enlarge minimap
-- **B**: Xaero's minimap - New waypoint
-- **U**: Xaero's minimap - Waypoint menu
-- **[**: Xaero's minimap - Minimap setting
-- **N**: Xaero's world map - Open world map
-- **]**: Xaero's world map - World map setting
+- **F6**: Toggle First-person Perspective
+- **F9**: Take Large Screenshot
+- **H**: Toggle Full Gamma (Full Brightness)
+- **J**: Shader Selection Menu
+- **K**: Toggle Sky Visibility
+- **G**: Simple Voice Chat - Group Management
+- **V**: Simple Voice Chat - Settings
+- **M**: Simple Voice Chat - Mute Microphone
+- **Z**: Xaero's Minimap - Enlarge Minimap
+- **B**: Xaero's Minimap - New Waypoint
+- **U**: Xaero's Minimap - Waypoint Menu
+- **[**: Xaero's Minimap - Minimap Settings
+- **N**: Xaero's World Map - Open World Map
+- **]**: Xaero's World Map - World Map Settings
+
+## Modpack contents:
 
 <details>
   <summary>Mod list</summary>
