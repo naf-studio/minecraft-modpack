@@ -111,6 +111,7 @@
   - ~~[RailOptimization](https://modrinth.com/mod/railoptimization)~~
   - [ReplayMod](https://modrinth.com/mod/replaymod)
   - [Replay Voice Chat](https://modrinth.com/mod/replay-voice-chat)
+  - [ScalableLux](https://modrinth.com/mod/scalablelux)
   - [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard)
   - ~~[Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)~~
   - [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
@@ -125,7 +126,7 @@
   - ~~[TNT Timer](https://modrinth.com/datapack/tnt-timer)~~
   - [ToolTipFix](https://modrinth.com/mod/tooltipfix)
   - [Traveler's Titles](https://modrinth.com/mod/travelers-titles)
-  - ~~[Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric)~~
+  - [Very Many Players (Fabric)](https://modrinth.com/mod/vmp-fabric)
   - ~~[Visuality](https://modrinth.com/mod/visuality)~~
   - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
   - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
