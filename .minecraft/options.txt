@@ -1,10 +1,10 @@
 version:4671
-ao:true
-biomeBlendRadius:2
+ao:false
+biomeBlendRadius:1
 chunkSectionFadeInTime:0.75
 cutoutLeaves:true
 enableVsync:false
-entityDistanceScaling:1.0
+entityDistanceScaling:0.75
 entityShadows:true
 forceUnicodeFont:false
 japaneseGlyphVariants:false
@@ -13,7 +13,7 @@ fovEffectScale:1.0
 darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
-graphicsPreset:"fancy"
+graphicsPreset:"custom"
 prioritizeChunkUpdates:1
 fullscreen:false
 gamma:0.5
@@ -23,7 +23,7 @@ textureFiltering:1
 maxFps:260
 improvedTransparency:false
 inactivityFpsLimit:"afk"
-mipmapLevels:4
+mipmapLevels:2
 narrator:0
 particles:0
 reducedDebugInfo:false
@@ -63,7 +63,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/§8§lDark GUI Experience+§0.zip","file/§b§lVanilla Experience+§0.zip","black_icons"]
+resourcePacks:["vanilla","file/Default-Dark-Mode-1.21.11-2026.4.0.zip","black_icons"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -102,7 +102,7 @@ saveChatDrafts:false
 panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
 onboardAccessibility:false
-menuBackgroundBlurriness:5
+menuBackgroundBlurriness:2
 startedCleanly:true
 musicToast:"never"
 musicFrequency:"DEFAULT"
