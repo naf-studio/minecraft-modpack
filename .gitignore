@@ -1,0 +1,11 @@
+*
+
+!.minecraft/mods
+!.minecraft/mods/*.jar
+
+!.minecraft/resourcepacks/
+!.minecraft/resourcepacks/*.zip
+
+!.gitignore
+!LICENSE
+!README.md
