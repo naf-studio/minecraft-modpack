@@ -22,7 +22,7 @@ maxAnisotropyBit:1
 textureFiltering:1
 maxFps:260
 improvedTransparency:false
-inactivityFpsLimit:"afk"
+inactivityFpsLimit:"minimized"
 mipmapLevels:2
 narrator:0
 particles:0
