@@ -1,6 +1,13 @@
 *
 
-!.minecraft/mods
+!.github/
+
+!.github/workflows/
+!.github/workflows/*.yml
+
+!.minecraft/
+
+!.minecraft/mods/
 !.minecraft/mods/*.jar
 
 !.minecraft/resourcepacks/
