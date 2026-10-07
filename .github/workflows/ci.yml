@@ -21,7 +21,7 @@ jobs:
       - name: Validate Manifest JSON
         run: |
           python3 -c "
-          import json, sys
+          import json
           with open('modrinth.index.json', 'r', encoding='utf-8') as f:
               data = json.load(f)
           assert data.get('formatVersion') == 1, 'Invalid formatVersion'
@@ -32,7 +32,6 @@ jobs:
 
       - name: Test Export Packaging
         run: |
-          sudo apt-get update && sudo apt-get install -y zip
           chmod +x export.sh
           ./export.sh dist
           test -f dist/NAF-Minecraft-Modpack-*.mrpack

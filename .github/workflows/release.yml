@@ -21,13 +21,9 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install Packaging Utilities
-        run: sudo apt-get update && sudo apt-get install -y zip
-
       - name: Build Modpack Distribution Archives
         run: |
           chmod +x export.sh
-          mkdir -p dist
           ./export.sh dist
           ls -lh dist/
 

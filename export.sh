@@ -17,31 +17,42 @@ if [ ! -f "${MANIFEST_FILE}" ]; then
     exit 1
 fi
 
+OUT_DIR="${1:-${SCRIPT_DIR}}"
+mkdir -p "${OUT_DIR}"
+OUT_DIR="$(cd "${OUT_DIR}" && pwd)"
+
 VERSION=$(python3 -c "import json; print(json.load(open('${MANIFEST_FILE}', encoding='utf-8'))['versionId'])")
 PACK_NAME="NAF-Minecraft-Modpack-${VERSION}"
-OUT_DIR="${1:-${SCRIPT_DIR}}"
-
-mkdir -p "${OUT_DIR}"
-
 MRPACK_TARGET="${OUT_DIR}/${PACK_NAME}.mrpack"
 ZIP_TARGET="${OUT_DIR}/${PACK_NAME}.zip"
 
 echo "Exporting Modpack: ${PACK_NAME}"
 
-STAGING_DIR=$(mktemp -d)
-trap 'rm -rf "${STAGING_DIR}"' EXIT
+python3 -c "
+import os, shutil, zipfile
 
-cp "${MANIFEST_FILE}" "${STAGING_DIR}/modrinth.index.json"
+manifest = '${MANIFEST_FILE}'
+overrides = '${OVERRIDES_DIR}'
+mrpack_out = '${MRPACK_TARGET}'
+zip_out = '${ZIP_TARGET}'
 
-if [ -d "${OVERRIDES_DIR}" ]; then
-    cp -r "${OVERRIDES_DIR}" "${STAGING_DIR}/overrides"
-fi
+if os.path.exists(mrpack_out):
+    os.remove(mrpack_out)
+if os.path.exists(zip_out):
+    os.remove(zip_out)
 
-# Package .mrpack (standard zip archive)
-(cd "${STAGING_DIR}" && zip -qr "${MRPACK_TARGET}" modrinth.index.json overrides/)
-echo "  [+] Generated: ${MRPACK_TARGET}"
+with zipfile.ZipFile(mrpack_out, 'w', zipfile.ZIP_DEFLATED) as zf:
+    zf.write(manifest, 'modrinth.index.json')
+    if os.path.isdir(overrides):
+        for root, dirs, files in os.walk(overrides):
+            for f in files:
+                full_path = os.path.join(root, f)
+                rel_path = os.path.relpath(full_path, os.path.dirname(overrides))
+                zf.write(full_path, rel_path)
 
-cp "${MRPACK_TARGET}" "${ZIP_TARGET}"
-echo "  [+] Generated: ${ZIP_TARGET}"
+shutil.copyfile(mrpack_out, zip_out)
+print(f'  [+] Generated: {mrpack_out}')
+print(f'  [+] Generated: {zip_out}')
+"
 
 echo -e "\nModpack export completed successfully!"
