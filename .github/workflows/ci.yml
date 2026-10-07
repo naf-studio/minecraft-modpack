@@ -1,0 +1,40 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate Manifest JSON
+        run: |
+          python3 -c "
+          import json, sys
+          with open('modrinth.index.json', 'r', encoding='utf-8') as f:
+              data = json.load(f)
+          assert data.get('formatVersion') == 1, 'Invalid formatVersion'
+          assert data.get('game') == 'minecraft', 'Invalid game'
+          assert len(data.get('files', [])) > 0, 'No files declared'
+          print(f'Validation passed: {len(data[\"files\"])} files declared for Minecraft {data.get(\"dependencies\", {}).get(\"minecraft\")}')
+          "
+
+      - name: Test Export Packaging
+        run: |
+          sudo apt-get update && sudo apt-get install -y zip
+          chmod +x export.sh
+          ./export.sh dist
+          test -f dist/NAF-Minecraft-Modpack-*.mrpack
+          test -f dist/NAF-Minecraft-Modpack-*.zip
+          ls -lh dist/

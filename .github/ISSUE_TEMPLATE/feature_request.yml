@@ -1,0 +1,21 @@
+name: Feature Request
+description: Suggest a new mod or configuration enhancement.
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for suggesting a feature or mod for NAF Minecraft Modpack!
+  - type: input
+    id: mod_link
+    attributes:
+      label: Modrinth Link
+      description: Provide the Modrinth URL for the suggested mod.
+    validations:
+      required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Rationale & Benefits
+      description: Explain why this mod should be included and how it benefits the player experience.
+    validations:
+      required: true

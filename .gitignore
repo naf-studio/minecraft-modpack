@@ -1,18 +1,23 @@
-*
+*.mrpack
+*.zip
+*.tmp
 
-!.github/
+.minecraft/
+.minecraft/**
 
-!.github/workflows/
-!.github/workflows/*.yml
+*.jar
+mods/
+mods/**
 
-!.minecraft/
+logs/
+logs/**
+crash-reports/
+crash-reports/**
+*.log
+*.log.gz
+.cache/
+cache/
 
-!.minecraft/mods/
-!.minecraft/mods/*.jar
-
-!.minecraft/resourcepacks/
-!.minecraft/resourcepacks/*.zip
-
-!.gitignore
-!LICENSE
-!README.md
+.DS_Store
+Thumbs.db
+ehthumbs.db

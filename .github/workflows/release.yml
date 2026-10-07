@@ -1,0 +1,42 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Packaging Utilities
+        run: sudo apt-get update && sudo apt-get install -y zip
+
+      - name: Build Modpack Distribution Archives
+        run: |
+          chmod +x export.sh
+          mkdir -p dist
+          ./export.sh dist
+          ls -lh dist/
+
+      - name: Publish GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            dist/*.mrpack
+            dist/*.zip
+          generate_release_notes: true
+          draft: false
+          prerelease: false
